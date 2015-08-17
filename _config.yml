@@ -3,10 +3,10 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
-description:
-author: John Doe
+title: FunCoder
+subtitle: code for fun
+description: be a fun and happy coder
+author: Peter Hung
 language:
 timezone:
 
@@ -67,5 +67,8 @@ theme: landscape
 
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
+# npm install hexo-deployer-git --save
 deploy:
-  type:
+  type: git
+  repository: git@github.com:XJianfei/hexo_blog.git
+  branch: master
