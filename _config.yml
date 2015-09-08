@@ -7,12 +7,12 @@ title: FunCoder
 subtitle: code for fun
 description: be a fun and happy coder
 author: Peter Hung
-language:
+language: zh-CN
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: http://afuncoder.com
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -63,7 +63,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: http://hexo.io/plugins/
 ## Themes: http://hexo.io/themes/
-theme: landscape
+theme: cover
 
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
