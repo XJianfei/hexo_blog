@@ -4,7 +4,7 @@
 
 # Site
 title: FunCoder
-subtitle: code for fun
+subtitle: code for fun<br>当你的才华还撑不起你的梦想时， 那你就应该静下心来学习
 description: be a fun and happy coder
 author: Peter Hung
 language: zh-CN
@@ -12,7 +12,7 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://afuncoder.com
+url: http://www.afuncoder.com
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
