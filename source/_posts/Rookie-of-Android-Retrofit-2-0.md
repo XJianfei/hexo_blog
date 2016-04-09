@@ -4,6 +4,7 @@ tags: Android, Retrofit, Http, Network
 category: Android
 ---
 Retrofit是什么, 官方标题写着A type-safe HTTP client for Android and Java。
+这里是一篇简单的Retrofit入门教程，说明基本的使用方法.
 功能比较全， 比较强大，支持同步/异步，默认使用GSON, 可以写出漂亮的RESTful API, 并支持RxJava。
 
 使用Retrofit主要三步走
