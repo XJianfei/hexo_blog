@@ -72,3 +72,12 @@ deploy:
   type: git
   repository: git@github.com:XJianfei/hexo_blog.git
   branch: master
+
+# npm install hexo-generator-sitemap --save
+# npm install hexo-generator-baidu-sitemap --save
+sitemap:
+    path: sitemap.xml
+
+baidusitemap:
+    path: baidusitemap.xml
+
