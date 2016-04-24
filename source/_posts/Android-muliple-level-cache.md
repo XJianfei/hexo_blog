@@ -1,4 +1,4 @@
-title: 利用RxJava被耍Android多级缓存
+title: 利用RxJava实现Android多级缓存
 date: 2016-04-24 11:50:03
 tags: Android, RxJava, Cache 
 category: Android
