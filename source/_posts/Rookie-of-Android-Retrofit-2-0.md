@@ -1,6 +1,7 @@
-title: Rookie of Android Retrofit 2.0
+title: Android Retrofit 2.0入门
+description: Rookie of Android Retrofit 2.0， 入门，教程
 date: 2016-04-09 20:37:29
-tags: Android, Retrofit, Http, Network
+tags: [Android, Retrofit, Http, Network]
 category: Android
 ---
 Retrofit是什么, 官方标题写着A type-safe HTTP client for Android and Java。

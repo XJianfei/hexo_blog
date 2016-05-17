@@ -1,6 +1,7 @@
-title: Retrofix2.0 and RxJava
+title: Retrofix2.0 结合 RxJava
+description: Retrofix2.0 and RxJava
 date: 2016-04-10 21:07:15
-tags: Android, Retrofit, Http, Network
+tags: [Android, Retrofit, Http, Network]
 category: Android
 ---
 Retrofix支持Call Adapter, 我们就是用这个来实现RxJava, 用Observable来替换Call。

@@ -1,6 +1,7 @@
 title: DBFlow入门使用教程
+description: new of DBFlow, an android sql orm framework
 date: 2016-04-30 22:06:46
-tags: Android SQL DBFlow
+tags: [Android SQL DBFlow]
 category: Android
 ---
 下面是DBFlow官方的简介描述:
