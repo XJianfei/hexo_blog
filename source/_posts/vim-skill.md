@@ -3,6 +3,7 @@ title: vim技巧点滴记录
 description: vim skill record
 date: 2015-12-05 11:39:42
 tags: [tools,vim]
+keywords: linux,vim,skill
 category: tools
 ---
 

@@ -2,6 +2,7 @@ title: 利用RxJava实现Android多级缓存
 description: Implement android multiple cache with rxjava
 date: 2016-04-24 11:50:03
 tags: [Android, RxJava, Cache]
+keywords: android,cache,rxjava
 category: Android
 ---
 做Android开发时，我们常常需要从网络上下载图片，然后为了节省网络带宽也好，更快地获取图片也好，程序员就想到把已经下载的图片资源缓存到本地磁盘或者内存中，然后就出现了各种图片缓存的实现。最近在学RxJava，在想用RxJava来实现会有不一样的效果，所以动手去做了。

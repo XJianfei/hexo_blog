@@ -2,6 +2,7 @@ title: 在Windows上安装Android react-native
 description: Install android react-native in Windows
 date: 2016-05-17 18:28:59
 tags: [Android, JS, react-native]
+keywords: android,react-native,js,windows
 category: Android
 ---
 

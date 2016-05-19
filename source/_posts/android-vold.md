@@ -3,6 +3,7 @@ title: linux MMC子系统和android vold模块
 date: 2015-12-29 10:52:42
 description: linux mmc subsystem and android vold model
 tags: [android,linux]
+keywords: android,linux,mmc,vold
 category: android
 ---
 
