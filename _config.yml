@@ -4,7 +4,7 @@
 
 # Site
 title: FunCoder
-subtitle: code for fun<br>当你的才华还撑不起你的梦想时， 那你就应该静下心来学习
+subtitle: 当你的才华还撑不起你的梦想时， 那你就应该静下心来学习
 description: be a fun and happy coder
 author: Peter Hung
 language: zh-CN
@@ -63,7 +63,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: http://hexo.io/plugins/
 ## Themes: http://hexo.io/themes/
-theme: cover
+theme: random
 
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
