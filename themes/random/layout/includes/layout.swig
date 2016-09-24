@@ -48,6 +48,17 @@
       {% endif %}
     </div>
   </div>
+<div>
+<span id="busuanzi_container_site_pv">
+本站总访问量<span id="busuanzi_value_site_pv"></span>次
+</span>
+<span id="busuanzi_container_site_uv">
+本站访客数<span id="busuanzi_value_site_uv"></span>人次
+</span>
+<span id="busuanzi_container_page_pv">
+本文总阅读量<span id="busuanzi_value_page_pv"></span>次
+</span>
+</div>
 
   <div id="bottom-outer">
     <div id="bottom-inner">
@@ -66,7 +77,6 @@
     </div>
   </div>
 </div>
-
 </div>
 {% if page.comments && (theme.duoshuo_shortname || config.duoshuo_shortname) %}
   {% include 'duoshuo.swig' %}
@@ -77,4 +87,5 @@
 {% if page.comments && (config.uyan_id || theme.uyan_id) %}
   {% include 'uyan.swig' %}
 {% endif %}
+
 {% include 'footer.swig' %}

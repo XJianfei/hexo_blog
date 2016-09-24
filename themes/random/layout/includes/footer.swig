@@ -13,7 +13,6 @@ if(window && window.location && window.location.host) {
 }
 
 var isTriggerAnalytics = !( {{ JSON.stringify(config.isIgnoreSpecialHostVisitor || theme.isIgnoreSpecialHostVisitor) }} && isIgnoreHost );
-
 </script>
 {% if config.baidu_analytics || theme.baidu_analytics || config.baidu_tongji || theme.baidu_tongji %}
   {% include 'baidu-tongji.swig' %}
@@ -102,6 +101,9 @@ $(".video-container iframe").each(function(i){
   $(this).parent().html(plyrContainer);
 });
 plyr.setup('.plyr', {iconUrl: '{{ url_for("/css/sprite.svg") }}'});
+</script>
+
+<script async src="https://dn-lbstatics.qbox.me/busuanzi/2.3/busuanzi.pure.mini.js">
 </script>
 </body>
 </html>
