@@ -18,6 +18,9 @@
 <!doctype html>
 <html lang="{{ config.language }}">
 <head>
+  {% if theme.google_site_verification %}
+    <meta name="google-site-verification" content="iEA8Fr68AgH1hDabITfzzIhv20inXpf_ZPn7P-oXkCk" />
+  {% endif %}
   <meta http-equiv="Content-Type" content="text/html" charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   {% if config.author %}
