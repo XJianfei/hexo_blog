@@ -63,7 +63,7 @@
   <div id="bottom-outer">
     <div id="bottom-inner">
       Site by {{ config.author }} using
-      <a href="http://hexo.io">Hexo</a> & <a href="https://github.com/stiekel/hexo-theme-random">Random</a>
+      <a href="http://hexo.io">Hexo</a> & <a href="https://github.com/stiekel/hexo-theme-random">Random</a><span>  </span><a href="http://www.josan.cc">一体机 会议机</a>
       <br>
       {% if config.since %}
         &copy;
